@@ -15,4 +15,4 @@ ruby keepass21pass.rb exported.xml > out.csv
 
 Note
 =====
-Garbage infomation will remain in "Notes" fields. delete them by your hands.
+Infomation including your passwords will remain in the "Notes" fields. delete them by your hands.
